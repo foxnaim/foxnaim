@@ -154,14 +154,43 @@ const foxnaim = {
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| [**NeuroNotes**](https://github.com/foxnaim/NeuroNotes) | AI-powered note-taking application |
-| [**Dev-flow**](https://github.com/foxnaim/Dev-flow) | Developer workflow management tool |
-| [**Anonymous-chat**](https://github.com/foxnaim/Anonymous-chat) | Real-time anonymous chat platform |
-| [**AI-Trend-Analytics**](https://github.com/foxnaim/AI-Trend-Analytics) | AI-driven trend analysis dashboard |
-| [**BookForge**](https://github.com/foxnaim/BookForge) | Book management & discovery app |
-| [**habit-tracker**](https://github.com/foxnaim/habit-tracker) | Full-stack habit tracking system |
+### AI & Smart Apps
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**NeuroNotes**](https://github.com/foxnaim/NeuroNotes) | AI-powered note-taking application | TypeScript, React, AI |
+| [**AI-Trend-Analytics**](https://github.com/foxnaim/AI-Trend-Analytics) | AI-driven trend analysis dashboard | TypeScript, Data Viz |
+
+### Full-Stack Applications
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Dev-flow**](https://github.com/foxnaim/Dev-flow) | Developer workflow management tool | TypeScript, React |
+| [**BookForge**](https://github.com/foxnaim/BookForge) | Book management & discovery app | TypeScript, Full-Stack |
+| [**Network-Social**](https://github.com/foxnaim/Network-Social) | Social network platform | JavaScript, Node.js |
+| [**Study-Hub**](https://github.com/foxnaim/Study-Hub) | Educational study platform | TypeScript, React |
+| [**Luki_lu-Shop**](https://github.com/foxnaim/Luki_lu-Shop) | E-commerce online store | TypeScript, React |
+| [**onlineStore**](https://github.com/foxnaim/onlineStore) | Full-stack online marketplace | JavaScript, Node.js |
+
+### Real-Time & Chat
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Anonymous-chat**](https://github.com/foxnaim/Anonymous-chat) | Real-time anonymous chat platform | TypeScript, WebSocket |
+| [**chat**](https://github.com/foxnaim/chat) | Real-time messaging application | TypeScript, Socket.io |
+
+### Productivity & Tools
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**habit-tracker**](https://github.com/foxnaim/habit-tracker) | Full-stack habit tracking system | TypeScript, React |
+| [**Agenda-2.0**](https://github.com/foxnaim/Agenda-2.0) | Task & agenda management app | TypeScript, React |
+| [**TodoList-Ts**](https://github.com/foxnaim/TodoList-Ts) | Modern todo app with TypeScript | TypeScript, React |
+| [**Dynamic-Form-Constructor**](https://github.com/foxnaim/Dynamic-Form-Constructor) | Drag & drop form builder | TypeScript, React |
+| [**Weather-app**](https://github.com/foxnaim/Weather-app) | Weather forecast application | TypeScript, API |
+
+### Admin & Dashboards
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Trial-Admin-Ponel**](https://github.com/foxnaim/Trial-Admin-Ponel) | Admin panel dashboard | TypeScript, React |
+| [**Hackathon**](https://github.com/foxnaim/Hackathon) | Hackathon competition project | TypeScript, React |
+| [**Game-Website**](https://github.com/foxnaim/Game-Website) | Gaming platform website | HTML, CSS, JS |
 
 </div>
 
