@@ -19,7 +19,9 @@
 
 ---
 
-## About Me
+## Ян Павлов / About Me
+
+Full-stack разработчик и автор **foxnaim**. Создаю сайты, CRM, SaaS и AI-автоматизации, которые помогают бизнесу получать заявки и экономить время. Публичное портфолио: **[foxnaim.github.io/portfolio](https://foxnaim.github.io/portfolio/)**.
 
 ```typescript
 const foxnaim = {
@@ -34,6 +36,7 @@ const foxnaim = {
 - Exploring **AI integration** in web applications
 - Building and sharing open-source projects
 - Open to collaboration on interesting projects
+- Sharing development processes and launches in **[Build with Yan](https://t.me/+cYtUBpTN-2FkZTky)**
 
 ---
 
