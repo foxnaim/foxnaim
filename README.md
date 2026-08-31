@@ -21,7 +21,11 @@
 
 ## Ян Павлов / About Me
 
-Full-stack разработчик и автор **foxnaim**. Создаю сайты, CRM, SaaS и AI-автоматизации, которые помогают бизнесу получать заявки и экономить время. Публичное портфолио: **[foxnaim.github.io/portfolio](https://foxnaim.github.io/portfolio/)**.
+Full-stack разработчик и автор **foxnaim**. Увлекаюсь разработкой с 2017 года: ещё в школе начал писать скрипты и собирать интерфейсы. Сейчас создаю сайты, CRM, SaaS и AI-автоматизации, которые помогают бизнесу получать заявки и экономить время.
+
+Работаю удалённо из Казахстана, часто бываю в Алматы, Павлодаре, Семее и Астане. Люблю разные интересные задачи и, если заказчик согласен, предлагаю дополнительные идеи для развития продукта и автоматизации.
+
+**[Портфолио](https://foxnaim.github.io/portfolio/)** · **[15 проектов и решений](https://foxnaim.github.io/portfolio/projects/)** · **[Как проходит работа](https://foxnaim.github.io/portfolio/process/)**
 
 ```typescript
 const foxnaim = {
@@ -36,6 +40,8 @@ const foxnaim = {
 - Exploring **AI integration** in web applications
 - Building and sharing open-source projects
 - Open to collaboration on interesting projects
+- Typical project timeline: **1 week to 2 months**, depending on scope
+- Team and product experience: **AI-Таргетолог, Imperial, One System, Leadflow**
 - Sharing development processes and launches in **[Build with Yan](https://t.me/+cYtUBpTN-2FkZTky)**
 
 ---
@@ -152,11 +158,14 @@ const foxnaim = {
 
 ## Featured Projects
 
+> Расширенный каталог с описанием задачи и стека: **[страница проектов](https://foxnaim.github.io/portfolio/projects/)**.
+
 <div align="center">
 
 ### AI & Smart Apps
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**AI Lead Flow**](https://foxnaim.github.io/AI-Lead-Flow/) | Interactive lead qualification and CRM workflow concept | JavaScript, AI, CRM |
 | [**NeuroNotes**](https://github.com/foxnaim/NeuroNotes) | AI-powered note-taking application | TypeScript, React, AI |
 | [**AI-Trend-Analytics**](https://github.com/foxnaim/AI-Trend-Analytics) | AI-driven trend analysis dashboard | TypeScript, Data Viz |
 
