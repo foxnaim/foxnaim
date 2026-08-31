@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">foxnaim — Yan Pavlov, full-stack developer</title>
+  <desc id="desc">Websites, CRM, SaaS and AI automation</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090c"/><stop offset=".55" stop-color="#10131a"/><stop offset="1" stop-color="#090a0e"/></linearGradient>
+    <radialGradient id="glow" cx="73%" cy="28%" r="55%"><stop offset="0" stop-color="#7c6cff" stop-opacity=".35"/><stop offset="1" stop-color="#7c6cff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/><rect width="1280" height="360" rx="28" fill="url(#glow)"/><rect width="1280" height="360" rx="28" fill="url(#grid)"/><rect x="28" y="28" width="1224" height="304" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+  <g transform="translate(75 73)"><circle cx="31" cy="31" r="31" fill="#f4f2ff"/><path d="M14 19.5 31 12l17 7.5-3 25L31 51 17 44.5Zm5.7 3.5 3 17.4 8.3 4 8.3-4 3-17.4L31 18Zm2.9 2.4 8.4 5.9 8.4-5.9-2 11.7-6.4-3.2-6.4 3.2Z" fill="#0b0c10"/><text x="82" y="41" fill="#f8f8fa" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="-1.5">foxnaim</text></g>
+  <text x="75" y="207" fill="#f8f8fa" font-family="Inter,Arial,sans-serif" font-size="61" font-weight="650" letter-spacing="-3.2">YAN PAVLOV</text>
+  <text x="78" y="247" fill="#aaa9b5" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="500" letter-spacing="4">FULL-STACK DEVELOPER</text>
+  <g transform="translate(650 209)" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1.1"><rect x="0" y="0" width="122" height="42" rx="21" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".14"/><text x="61" y="27" fill="#d8d6e6" text-anchor="middle">WEB</text><rect x="134" y="0" width="122" height="42" rx="21" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".14"/><text x="195" y="27" fill="#d8d6e6" text-anchor="middle">CRM</text><rect x="268" y="0" width="122" height="42" rx="21" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".14"/><text x="329" y="27" fill="#d8d6e6" text-anchor="middle">SAAS</text><rect x="402" y="0" width="122" height="42" rx="21" fill="#8d7dff" fill-opacity=".18" stroke="#a89cff" stroke-opacity=".35"/><text x="463" y="27" fill="#dcd7ff" text-anchor="middle">AI</text></g>
+  <circle cx="1205" cy="78" r="5" fill="#78d99b"/><text x="1186" y="83" fill="#9c9ba7" font-family="Inter,Arial,sans-serif" font-size="12" text-anchor="end" letter-spacing="1.2">OPEN TO PROJECTS</text>
+</svg>
