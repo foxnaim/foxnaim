@@ -40,6 +40,8 @@ Docker · GitHub Actions · AI/API integrations
 | Проект | Решение | Стек |
 | --- | --- | --- |
 | [**AI Lead Flow**](https://foxnaim.github.io/AI-Lead-Flow/) | Интерактивный концепт квалификации заявок, lead score и следующего действия | JavaScript, CRM concept |
+| [**Slotix KZ**](https://foxnaim.github.io/Slotix-KZ/) | Макет онлайн-записи, расписания, мини-CRM и управления услугами | JavaScript, Booking concept |
+| [**TazaOrder**](https://foxnaim.github.io/TazaOrder/) | Макет Telegram-магазина; портфельная адаптация открытого MIT-проекта | React, Telegram commerce |
 | [**Tact**](https://github.com/foxnaim/World-Time-Frontend) | Учёт рабочего времени через Telegram и меняющиеся QR-коды | Next.js, NestJS, PostgreSQL |
 | [**NeuroNotes**](https://github.com/foxnaim/NeuroNotes) | Пространство для заметок, задач и интерфейсов AI-функций | Next.js, TypeScript |
 | [**Dev-flow**](https://github.com/foxnaim/Dev-flow) | Канбан, календарь, заметки и управление задачами | Next.js, MongoDB, NextAuth |
